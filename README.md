@@ -1,7 +1,7 @@
 # about_me
 
 <h1 align="center">Hello everyone👋, I'm Kadriye HARMANCI (kadochann)</h1>
-<h3 align="center">I am a years-old Computer Engineering Student in ESOGU (Eskişehir Osmangazi University)</h3>
+<h3 align="center">I am a 20 years-old Computer Engineering Student in ESOGU (Eskişehir Osmangazi University)</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@kadriyeh26](https://medium.com/@kadriyeh26)
 
@@ -13,7 +13,7 @@
 
 - Languages: Turkish (native), English (C1), German (B1)
 
-- ⚡ Fun fact **I have a lot of side hobies like playing guitar, filling my rooms walls with sketches, inpecting human anatomy, learning about history, reading books etc.**
+- ⚡ Fun fact **I have a lot of side hobies like playing guitar, filling my rooms walls with sketches, inpecting human anatomy, learning about history and psychology, reading books etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
