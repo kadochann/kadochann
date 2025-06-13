@@ -1,7 +1,7 @@
 # about_me
 
 <h1 align="center">Hello everyone👋, I'm Kadriye HARMANCI (kadochann)</h1>
-<h3 align="center">I am a 20 years-old Computer Engineering Student in ESOGU (Eskişehir Osmangazi University)</h3>
+<h3 align="center">I am a 21 years-old Computer Engineering Student in ESOGU (Eskişehir Osmangazi University)</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@kadriyeh26](https://medium.com/@kadriyeh26)
 
