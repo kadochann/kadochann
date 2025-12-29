@@ -5,13 +5,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kadriyeh26](https://medium.com/@kadriyeh26)
 
-- 💬 Ask me about **my projects, backend, API configurations.**
-
 - 📫 How to reach me **kadriyeh26@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kadriye-harmanci](https://www.linkedin.com/in/kadriye-harmanci)
 
-- Languages: Turkish (native), English (C1), German (B1)
+- Languages: Turkish (native), English (C1), German (A2)
 
 - ⚡ Fun fact **I have a lot of side hobies like playing guitar, filling my rooms walls with sketches, inpecting human anatomy, learning about history and psychology, reading books etc.**
 
