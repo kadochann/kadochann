@@ -17,5 +17,6 @@ Check out my [My Portfolio](https://github.com/kadochann/portfolio)
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
-⭐️ Credit: Kadriye HARMANCI (https://github.com/kadochann)  
+---
+⭐️ Credit: [Kadriye HARMANCI](https://github.com/kadochann)
 Last Edited on: 11/07/2026
