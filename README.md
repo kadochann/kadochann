@@ -1,8 +1,5 @@
 # Hey 👋, I'm Kadriye!
 
-![](https://komarev.com/ghvc/?username=kadochann)
-<img src="https://komarev.com/ghvc/?username=kadochann&color=grey" alt="kadochann" />
-
 Data Science & AI Engineering Enthusiast — Candidate Engineer at FORD OTOSAN in Eskişehir.
 
 Check out my [My Portfolio](https://github.com/kadochann/portfolio)
